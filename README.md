@@ -4,12 +4,15 @@ And also know you should not download the code you need to go into release tags 
 So that's just you know, great
 System Requirements
 
-FlightGear version: 2020.1.3 or higher 
-Minimum RAM: 4 GB.
+FlightGear version: 2020.1.3 or higher
 
-Recommended RAM: 8 GB for optimal performance.
+Minimum RAM: 4 GB
 
-FPS Guidance:
+Recommended RAM: 8 GB for optimal performance
+
+macOS compatibility: Fully supported
+
+FPS Guidance
 
 Below 5 FPS: Aircraft may fall back to default barebones flight model; crashes are possible.
 
@@ -17,4 +20,4 @@ Below 5 FPS: Aircraft may fall back to default barebones flight model; crashes a
 
 15–20+ FPS: Half-baked flight model with all failures active.
 
-20+ FPS: Full intact aircraft with complete flight model and realistic physics. And also this patch is 100% macOS compatible
+20+ FPS: Full intact aircraft with complete flight model and realistic physics.
