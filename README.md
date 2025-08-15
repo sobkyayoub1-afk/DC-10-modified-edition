@@ -1,5 +1,10 @@
-# DC-10-modified-edition
-# FlightGear DC-10 Aircraft (Modified)  If you need the Octal450 DC-10 but it doesn't work for you, this is a modified version that should work properly.  This aircraft is Quick Start
+DC-10 Modified Edition
+
+FlightGear DC-10 Aircraft (Modified)
+
+This is a modified version of the Octal450 DC-10 aircraft for FlightGear. If the original Octal450 DC-10 doesn’t work for you, this version includes fixes for better compatibility. Note: This is a community-driven fix, not an official release.
+
+Quick Start
 
 Download the latest DC-10.zip from the Release tags.
 
@@ -12,9 +17,40 @@ Place the extracted DC-10.zip contents inside your custom folder.
 Open FlightGear, select the DC-10 from the Aircraft menu, and fly!
 
 Note: This patch includes the full DC-10 aircraft—no original aircraft download is needed.
-Tip: Use FlightGear 2020.1.3 or higher for full compatibility.based on the Octal450 DC-10 project with fixes applied for better compatibility.  **Note:** This is a community-driven fix, not an official release.
-And also know you should not download the code you need to go into release tags and then download file which says DC 10.zip and you're gonna have to create a custom FlightGear aircraft directory here are instructions on how to do that find the directory that you want to place your custom director and create a folder name it whatever you want go inside a FlightGear go to add-on and then find aircraft click add folder and then choose the folder that you created then download the patched version and place it and extracted and place it inside you know The folder that you chose in FlightGear and then choose the aircraft from your flight aircraft menu and you're ready to go
-So that's just you know, great
+Tip: Use FlightGear 2020.1.3 or higher for full compatibility.
+
+Installation Instructions (Detailed)
+
+Do not download the code directly. Go to the Release tags and download the file named DC-10.zip.
+
+Create a custom aircraft folder:
+
+Choose a directory where you want to place your custom aircraft.
+
+Create a folder and name it whatever you like.
+
+Add the folder to FlightGear:
+
+Open FlightGear.
+
+Go to Add-ons → Aircraft.
+
+Click Add Folder and select the folder you created (root only, not any subfolders).
+
+Install the aircraft:
+
+Extract the downloaded DC-10.zip.
+
+Place the extracted contents inside your custom folder.
+
+Select and fly:
+
+Open FlightGear.
+
+Choose the DC-10 from the Aircraft menu.
+
+You’re ready to go!
+
 System Requirements
 
 FlightGear version: 2020.1.3 or higher
